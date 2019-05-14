@@ -1,0 +1,1 @@
+This repository is made for learning Django, DJR and Angular
